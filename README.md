@@ -1,2 +1,2 @@
 # josipklaric.github.io
-Josip Klaric personal site
+Josip Klaric's personal site
